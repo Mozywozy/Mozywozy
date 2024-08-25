@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Mohammad Radzy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="">Mohammad Radzy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
 
@@ -26,6 +26,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mozywozy&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+<figure><embed src="https://wakatime.com/share/@f2699b45-d729-4733-9ddb-c15bff547e3a/3307ea89-bc7d-4294-87e7-9cf524304ba6.svg"></embed></figure>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
