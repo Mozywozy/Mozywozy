@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h3>👦 Mohammad Radzy | 💻 Front End & Back End Engineer | 🛸 Indonesia </h3>
+<h3>👦 Mohammad Radzy | 💻 Junior Back End Developer | 🛸 Indonesia </h3>
 </div>
  
  <h5 align="center">
@@ -31,11 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" alt="golang logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" alt="golang logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
   <img width="12" />
