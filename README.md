@@ -9,7 +9,7 @@
 </div>
  
  <h5 align="center">
-   <i>⚡️Skuyyy skuuyyy⚡️</i>
+   <i>⚡️Golang dev? otw!!⚡️</i>
   </h5>
  
  
