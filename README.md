@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h3>👦 Mohammad Radzy | 💻 Junior Back End Developer | 🛸 Indonesia </h3>
+<h3>👦 Mohammad Radzy | 💻 Junior Back End & Front End Developer | 🛸 Indonesia </h3>
 </div>
  
  <h5 align="center">
