@@ -1,58 +1,20 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="">Mohammad Radzy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-</div>
+# 👋 Hey there, I'm Mohammad Radzy!
+**A Junior Backend Engineer by day ☼ and a Golang Enthusiast by night ☾**
 
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwind-css&color=06B6D4)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
+![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E)
+![Bash](https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC)
 
-<div align="center">
-<h3>👦 Mohammad Radzy | 💻 Junior Back End & Front End Developer | 🛸 Indonesia </h3>
-</div>
- 
- <h5 align="center">
-   <i>⚡️Golang dev? otw!!⚡️</i>
-  </h5>
- 
- 
+With a deep passion for exploring the world of programming, especially in backend development, I am a fresh graduate eager to tackle real-world challenges and continuously improve my skills.
 
-
-### - Languages and Tools...
-
-<hr>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="50" alt="golang logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgre logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" alt="boostrap logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" alt="bash logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo" />
-  <img width="12" />
-</div>
-<hr>
+- 🔭  Currently interning at a company in Jakarta.
+- 🌱  Always learning and diving deeper into programming to refine my expertise.
+- 🚀  Aspiring to build robust and scalable backend systems that make an impact.
 
 
 📈 my github stats
