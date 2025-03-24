@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Mohammad Radzy!
-**A Junior Backend Engineer by day ☼ and a Golang Enthusiast by night ☾**
+**A Junior Software Engineer by day ☼ and a Golang Enthusiast by night ☾**
 
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
@@ -12,7 +12,7 @@
 
 With a deep passion for exploring the world of programming, especially in backend development, I am a fresh graduate eager to tackle real-world challenges and continuously improve my skills.
 
-- 🔭  Currently interning at a company in Jakarta.
+- 🔭  Currently freelance at a company in Jakarta.
 - 🌱  Always learning and diving deeper into programming to refine my expertise.
 - 🚀  Aspiring to build robust and scalable backend systems that make an impact.
 
